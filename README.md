@@ -27,3 +27,5 @@ Run the application:
 ## Future Improvements:
 - Fuzzy Text Matching for better comparison
 - Support for large text files (streaming)
+- DataFrame column dtypes verification
+- Column level Filtering and sorting
