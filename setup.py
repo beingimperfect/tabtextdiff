@@ -8,7 +8,9 @@ setup(
         "pandas",
         "numpy",
         "streamlit",
-        "openpyxl"
+        "openpyxl",
+        "fuzzywuzzy",
+        "python-Levenshtein"
     ],
     entry_points={
         "console_scripts": [

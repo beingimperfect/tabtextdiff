@@ -2,3 +2,5 @@ pandas
 numpy
 streamlit
 openpyxl
+fuzzywuzzy
+python-Levenshtein  # optional but recommended for speed
